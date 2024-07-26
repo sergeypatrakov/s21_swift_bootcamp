@@ -1,0 +1,25 @@
+# Words:
+description - 2
+qa - 2
+head - 1
+i'm - 1
+some - 1
+work - 1
+petrovich - 1
+heels. - 1
+a - 1
+29-06-2001 - 1
+petr - 1
+piter22@gmail.com - 1
+petrov - 1
+... - 1
+male - 1
+specialist - 1
+from - 1
+to - 1
+
+# Matched tags
+QA
+specialist
+Male
+...
