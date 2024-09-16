@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:quest10/quest10.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest9/quest9.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest8/quest8.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest7/quest7.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest6/quest6.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest5/quest5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest4/quest4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest3/quest3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest2/quest2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:quest1/quest1.xcodeproj">
+   </FileRef>
+</Workspace>
